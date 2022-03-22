@@ -1,3 +1,20 @@
 <resources>
     <string name="app_name">Cuestionary</string>
+    <string name="first">¿Umami es un sabor primario?</string>
+    <string-array name="questions">
+        <item>¿El polo norte es el lugar mas frio de la tierra?</item>
+        <item>¿Homero escribio la Odisea?</item>
+        <item>¿El rio mas grande del mundo es el Rio Nilo?</item>
+        <item>¿Miguel de Cervantes escribio El Quijote?</item>
+    </string-array>
+    <string-array name="answers">
+        <item>"True"</item>
+        <item>"False"</item>
+        <item>"True"</item>
+        <item>"False"</item>
+        <item>"True"</item>
+    </string-array>
+    <string name="Button_True">True</string>
+    <string name="Button_False">False</string>
+    <string name="Button_Omite">I dont know</string>
 </resources>
