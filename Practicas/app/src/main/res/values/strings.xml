@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Prácticas_PDM2022-2</string>
+    <string name="helloWorld">Hi, Everyone.\nThis is my first application in android studio</string>
+    <string name="Welcome"> Prácticas trabajadas en laboratorio PDM 2022-2.</string>
+    <string name="Terminate">Felicidades terminaste el cuestionario</string>
+    <string name="WrongQuestion">Respuesta incorrecta</string>
+
+    <string-array name="questions">
+        <item>¿Umami es un sabor primario?</item>
+        <item>¿El polo norte es el lugar mas frio de la tierra?</item>
+        <item>¿Homero escribio la Odisea?</item>
+        <item>¿El rio mas grande del mundo es el Rio Nilo?</item>
+        <item>¿Miguel de Cervantes escribio El Quijote?</item>
+    </string-array>
+    <string-array name="answers">
+        <item>"True"</item>
+        <item>"False"</item>
+        <item>"True"</item>
+        <item>"False"</item>
+        <item>"True"</item>
+    </string-array>
+</resources>
